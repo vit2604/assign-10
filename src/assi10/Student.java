@@ -57,7 +57,7 @@ public class Student extends Person{
         float gpa = keyboard.nextFloat();
         setGPA(gpa);
         keyboard.nextLine();
-        System.out.print("Enter major");
+        System.out.print("Enter major: 4");
         String majo = keyboard.nextLine();
         setMajor(majo);     
     }

@@ -53,8 +53,8 @@ public class Process {
 
 
                 case 6:
-                    System.out.println("Exiting...");
-                    scanner.close();
+                    System.out.println("Exiting.");
+
                     System.exit(0);
                     break;
 
